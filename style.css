@@ -35,3 +35,13 @@ body
     background-color: white;
   }
 }
+
+h2 + p
+{
+   padding:10px;
+}
+
+a[href*="twitter"]
+{
+  color: darkblue;
+}
