@@ -24,3 +24,8 @@
   font-weight:normal;
   color: red;
 }
+
+body
+{
+  background-color: lightgrey;
+}
