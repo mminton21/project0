@@ -1,4 +1,18 @@
+.extender {
+  color: orange;
+  padding: 20px; }
+
 body {
-  background-color: darkgrey; }
+  background-color: lightgrey; }
+
+.container-fluid h2 {
+  color: orange; }
+
+.extender {
+  font-size: 18px;
+  padding-left: 50px; }
+
+.spanli {
+  color: black; }
 
 /*# sourceMappingURL=styles1.css.map */
