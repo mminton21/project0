@@ -3,5 +3,24 @@
   font-weight: bold;
   padding: 10px;
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
+  border: 1px;
+  border-style: solid;
+}
+
+.lambo
+{
+  font-weight: bold;
+}
+
+#lambolist
+{
+  font-weight: normal;
+  color: green;
+}
+
+#lambolist2
+{
+  font-weight:normal;
+  color: red;
 }
